@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Resources for the University of Washington
 ---
 
 # Resources for the University of Washington
