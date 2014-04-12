@@ -1,0 +1,62 @@
+/*See http://ethanschoonover.com/solarized for the color values that have comments.*/
+
+body {
+  color: #586e75; /*base01*/
+  background: #fdf6e3; /*base3*/
+  font-size: 16px;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+
+#content {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:link {
+  color: #268bd2; /*blue*/
+}
+a:visited {
+  color: #d33682; /*magenta*/
+}
+
+pre code{
+    display: block;
+    padding: 10px;
+}
+
+blockquote {
+    /*display: block;*/
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+blockquote {
+    border-radius: 2px 2px 2px 2px;
+    background-color: #eee8d5; /*base2*/
+    border: 1px solid #93a1a1; /*base1*/
+}
+
+code {
+    padding-left: 4px;
+    padding-right: 4px;
+    background-color: rgb(232, 248, 255);
+    border: 1px solid rgb(162, 196, 208);
+    border-radius: 2px 2px 2px 2px;
+}
+
+/*For displaying source code.*/
+span.kw {
+    color: rgb(35, 103, 10);
+    font-weight: bold;
+}
+
+span.st {
+    color: rgb(192, 62, 54);
+}
+
+span.co {
+    color: rgb(73, 128, 171);
+    font-style: italic;
+}
