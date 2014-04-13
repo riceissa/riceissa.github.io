@@ -28,15 +28,24 @@ pre code{
 
 blockquote {
     /*display: block;*/
-    padding-left: 16px;
-    padding-right: 16px;
+    color: #657b83; /*base00*/
+    padding: 7px 16px; /*top-bottom, right-left*/
+    border-left: 4px solid #93a1a1; /*base1*/
+    /*border-radius: 2px 2px 2px 2px;*/
+    background-color: #eee8d5; /*base2*/
+    /*border: 1px solid #93a1a1; /*base1*/
+    quotes: "\201C""\201D""\2018""\2019";
 }
 
-blockquote {
-    border-radius: 2px 2px 2px 2px;
-    background-color: #eee8d5; /*base2*/
-    border: 1px solid #93a1a1; /*base1*/
+blockquote:before, blockquote:after {
+    font-size: 25px;
+    line-height: 14px;
+    vertical-align: -2px;
+    font-family: FreeSerif, 'Times New Roman', serif;
 }
+blockquote:before { content: open-quote; }
+blockquote:after { content: close-quote; }
+blockquote p { display: inline; }
 
 code {
     padding-left: 4px;
