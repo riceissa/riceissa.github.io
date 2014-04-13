@@ -42,8 +42,6 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 - [What are the best colleges and universities for INTPs in the United States?](https://www.quora.com/What-are-the-best-colleges-and-universities-for-INTPs-in-the-United-States)
 
-- [How do I recruit people to join Quora at the University of Washington?](https://www.quora.com/How-do-I-recruit-people-to-join-Quora-at-the-University-of-Washington) (all the answers seem good)
-
 - [Alex K. Chen’s answer to Self-Improvement: What advice would you tell to your 12-year-old self if you could travel back in time?](https://www.quora.com/Self-Improvement/What-advice-would-you-tell-to-your-12-year-old-self-if-you-could-travel-back-in-time/answer/Alex-K-Chen)
 
 
@@ -53,7 +51,9 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 - [Alex K. Chen’s answer to Should I feel bad for going to a mediocre college?](https://www.quora.com/Should-I-feel-bad-for-going-to-a-mediocre-college/answer/Alex-K-Chen) (see especially the comments to the answer)
 
-- [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time)
+- [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time). Alex says:
+
+   > Talk to **lots** of UW professors about research and opportunities. By default I'd do it in astronomy, but astronomy is super-small (=lower chances of finding someone with personality+research fit who also has the time to mentor new students) so I'd also have to do it in biology, neuroscience, atmospheric science, oceanography, and genome sciences [...].
 
 - [What is some advice that most college students are not ever likely to hear?](https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-that-most-college-students-are-not-ever-likely-to-hear)
 
@@ -111,11 +111,12 @@ Alex says, in part:
     - Consider going to a Quora meet-up.
 For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/). (This blog is currently closed to the public, but if you contact me and you live in the Seattle area, I can probably get you in.)
 
+    - [How do I recruit people to join Quora at the University of Washington?](https://www.quora.com/How-do-I-recruit-people-to-join-Quora-at-the-University-of-Washington) (all the answers seem good)
+
+
 -   [Alex K. Chen's answer to: Colleges and Universities: How can you
     make important connections if you don't attend a top
     university?](https://www.quora.com/Colleges-and-Universities/How-can-you-make-important-connections-if-you-dont-attend-a-top-university/answer/Alex-K-Chen)
-
-- [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time)
 
 ## UW Honors
 
