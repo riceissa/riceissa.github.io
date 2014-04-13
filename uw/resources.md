@@ -30,7 +30,7 @@ Note that even if you’re not logged in on Quora, adding <code>/?share=1</code>
 
 - [Alex K. Chen’s answer to What is the biggest regret of your life?](https://www.quora.com/What-is-the-biggest-regret-of-your-life/answer/Alex-K-Chen)
 
-  > Not taking better advantage of the INCREDIBLE UW Atmospheric Science program when I was an undergrad, and spending too much time in majors [...] that don't give a crap about their undergrads. :( It has so few undergrads that you can easily take grad lvl courses and basically get treated like a grad student.
+    > Not taking better advantage of the INCREDIBLE UW Atmospheric Science program when I was an undergrad, and spending too much time in majors [...] that don't give a crap about their undergrads. :( It has so few undergrads that you can easily take grad lvl courses and basically get treated like a grad student.
 
 - Alex K. Chen often refers to the Academic program reviews and departmental self-study reports.
 Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html).
@@ -53,7 +53,7 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 - [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time). Alex says:
 
-   > Talk to **lots** of UW professors about research and opportunities. By default I'd do it in astronomy, but astronomy is super-small (=lower chances of finding someone with personality+research fit who also has the time to mentor new students) so I'd also have to do it in biology, neuroscience, atmospheric science, oceanography, and genome sciences [...].
+    > Talk to **lots** of UW professors about research and opportunities. By default I'd do it in astronomy, but astronomy is super-small (=lower chances of finding someone with personality+research fit who also has the time to mentor new students) so I'd also have to do it in biology, neuroscience, atmospheric science, oceanography, and genome sciences [...].
 
 - [What is some advice that most college students are not ever likely to hear?](https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-that-most-college-students-are-not-ever-likely-to-hear)
 
