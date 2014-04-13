@@ -5,4 +5,6 @@ title: riceissa
 
 # Issa Rice
 
-Hello world.
+Some pages:
+
+- [A list of UW resources](/uw/resources.html)
