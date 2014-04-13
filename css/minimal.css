@@ -44,6 +44,7 @@ code {
     background-color: rgb(232, 248, 255);
     border: 1px solid rgb(162, 196, 208);
     border-radius: 2px 2px 2px 2px;
+    font-family: 'Source Code Pro', monospace;
 }
 
 /*For displaying source code.*/
