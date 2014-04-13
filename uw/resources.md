@@ -188,4 +188,4 @@ The [article](http://www.wired.com/2009/12/15943/) Kite links to is intriguing.
 
 ## Thinking about graduate school
 
-- [Jean Yang’s page](http://jeanyang.com/) (see “Considering Graduate School?” near the bottom of the page.) See also this article by her about [MIT](https://medium.com/p/c6162458ef83).
+- [Jean Yang’s page](http://jeanyang.com/) (see “Considering Graduate School?” near the bottom of the page.) See also [this article](https://medium.com/p/c6162458ef83) by her about MIT.
