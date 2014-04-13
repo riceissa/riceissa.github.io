@@ -5,6 +5,12 @@ title: riceissa
 
 # Issa Rice
 
+I spend most of my time on [Quora](https://quora.com) now.
+My Quora profile is [here](https://www.quora.com/Issa-Rice).
+
+Feel free to contact me.
+My email is the reverse of moc.liamg@assiecir.
+
 Some pages:
 
 - [A list of UW resources](/uw/resources.html)
