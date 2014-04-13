@@ -105,8 +105,7 @@ Alex says, in part:
     > Use the cloud as your storage space, and default most of your
     > Facebook status updates to public.
 
--   [How does one meet new people at
-    UWashington?](https://www.quora.com/University-of-Washington/How-does-one-meet-new-people-at-UWashington)
+-   [How does one meet new people at UWashington?](https://www.quora.com/University-of-Washington/How-does-one-meet-new-people-at-UWashington)
 
     - Consider going to a Quora meet-up.
 For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/). (This blog is currently closed to the public, but if you contact me and you live in the Seattle area, I can probably get you in.)
@@ -114,9 +113,7 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
     - [How do I recruit people to join Quora at the University of Washington?](https://www.quora.com/How-do-I-recruit-people-to-join-Quora-at-the-University-of-Washington) (all the answers seem good)
 
 
--   [Alex K. Chen's answer to: Colleges and Universities: How can you
-    make important connections if you don't attend a top
-    university?](https://www.quora.com/Colleges-and-Universities/How-can-you-make-important-connections-if-you-dont-attend-a-top-university/answer/Alex-K-Chen)
+- [Alex K. Chen's answer to Colleges and Universities: How can you make important connections if you don't attend a top university?](https://www.quora.com/Colleges-and-Universities/How-can-you-make-important-connections-if-you-dont-attend-a-top-university/answer/Alex-K-Chen)
 
 ## UW Honors
 
@@ -144,7 +141,13 @@ You may need a UW account to see some of them, though.
 - [What is it like to study Atmospheric Science at the University of Washington?](https://www.quora.com/What-is-it-like-to-study-Atmospheric-Science-at-the-University-of-Washington)
 In particular, Alex K. Chen says:
 
-   > Personally, I think the ideal combination would be to major in CS at UW, take the grad-lvl courses (as well as the computational courses) in the Atmospheric Science department, and then do Atmospheric Science research at UW. That way you get an undergrad degree from one of UW's best undergrad programs, and research in a department where you can get more personal attention than almost any other department in the entire school.
+   > Personally, I think the ideal combination would be to major in CS
+   > at UW, take the grad-lvl courses (as well as the computational
+   > courses) in the Atmospheric Science department, and then do
+   > Atmospheric Science research at UW. That way you get an undergrad
+   > degree from one of UW's best undergrad programs, and research in a
+   > department where you can get more personal attention than almost
+   > any other department in the entire school.
 
 - [Department of atmospheric sceinces: unit self-study](https://www.washington.edu/about/accreditation/reviews/atmos-2011-1.pdf)
 
