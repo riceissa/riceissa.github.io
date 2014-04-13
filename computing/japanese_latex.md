@@ -78,7 +78,7 @@ To compile the document, run:
 
     platex hello_world.tex && dvipdfmx hello_world.dvi
 
-([Example output](http://riceissa.bitbucket.org/computing/japanese_latex/example1.pdf).)
+([Example output](http://riceissa.files.wordpress.com/2014/04/example1.pdf).)
 
 However, we notice that the font is all gothic (sans-serif).
 To fix this, i.e., to use a mincho (serif) font, we must use a “font mapping”.
@@ -87,7 +87,7 @@ Therefore, we use:
 
     platex hello_world.tex && dvipdfmx -f /usr/share/texlive/texmf-dist/fonts/map/dvipdfmx/jfontmaps/otf-ipaex.map hello_world.dvi
 
-([Example output](http://riceissa.bitbucket.org/computing/japanese_latex/example2.pdf).)
+([Example output](http://riceissa.files.wordpress.com/2014/04/example2.pdf).)
 
 If the `.map` file is not located in the same place, use `locate filename`.
 
