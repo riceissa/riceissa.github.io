@@ -4,8 +4,12 @@ body {
   color: #586e75; /*base01*/
   background: #fdf6e3; /*base3*/
   font-size: 14px;
-  font-family: Calibri, Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5;
+}
+
+h1 {
+    color: #073642; /*base02*/
 }
 
 #content {
