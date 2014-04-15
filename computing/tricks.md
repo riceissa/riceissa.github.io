@@ -3,8 +3,6 @@ layout: default
 title: Miscellaneous Tips and Tricks
 ---
 
-# Miscellaneous Tips and Tricks
-
 ## Changing the Default Editor
 
 To change the default editor on Debian, run:

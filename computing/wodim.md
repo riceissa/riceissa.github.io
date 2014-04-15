@@ -3,8 +3,6 @@ layout: default
 title: Burning CDs and DVDs on the command line (Debian Wheezy)
 ---
 
-# Burning CDs and DVDs on the command line (Debian Wheezy)
-
 It is occasionally useful to know how to perform basic tasks on the command line, especially since most commands are universal across distributions.
 Below we present instructions for burning and verifying CDs and DVDs on the command line.
 The following was tested on Debian Wheezy (during testing) using Wodim 1.1.11.

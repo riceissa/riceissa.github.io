@@ -1,9 +1,7 @@
 ---
 layout: default
-title: riceissa
+title: Issa Rice (riceissa)
 ---
-
-# Issa Rice
 
 I spend most of my time on [Quora](https://quora.com) now.
 My Quora profile is [here](https://www.quora.com/Issa-Rice).

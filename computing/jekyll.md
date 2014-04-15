@@ -3,8 +3,6 @@ layout: default
 title: Setting up Jekyll on GitHub
 ---
 
-# Setting up Jekyll on GitHub
-
 I think Jekyll is designed to run automatically on GitHub, as long as you are in your website repository (<code>USERNAME.github.io</code>) or in the <code>gh-pages</code> branch in any other repository.
 
 The most important file is called <code>\_config.yml</code>, and must be placed in the main directory.

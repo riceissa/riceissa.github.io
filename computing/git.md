@@ -3,8 +3,6 @@ layout: default
 title: A collection of often-forgotten git commands
 ---
 
-# A collection of often-forgotten git commands
-
 - View all unadded files, including ones in <code>.gitignore</code>.
 
         git add -Anf

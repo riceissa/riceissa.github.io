@@ -3,8 +3,6 @@ layout: default
 title: Resources for the University of Washington
 ---
 
-# Resources for the University of Washington
-
 A collection of information about the University of Washington (and also
 college in general).
 Currently it’s [too easy to lose things on Quora](https://www.quora.com/How-do-people-find-posts-on-Quora-that-theyve-written-but-completely-forgotten-about), so I am posting here.
