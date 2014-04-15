@@ -44,11 +44,16 @@ blockquote {
 blockquote:before, blockquote:after {
     font-size: 25px;
     line-height: 14px;
-    vertical-align: -2px;
     font-family: FreeSerif, 'Times New Roman', serif;
 }
-blockquote:before { content: open-quote; }
-blockquote:after { content: close-quote; }
+blockquote:before {
+    content: open-quote;
+    vertical-align: -2px;
+}
+blockquote:after {
+    content: close-quote;
+    vertical-align: -12px;
+}
 blockquote p { display: inline; }
 
 code {
