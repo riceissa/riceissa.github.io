@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources for the University of Washington
-comments: yes
+comments: 'yes'
 disqus-id: b6ac33c58ab9c30934bfad47df30bd980e68388b
 ---
 
