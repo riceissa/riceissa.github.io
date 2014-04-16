@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Burning CDs and DVDs on the command line (Debian Wheezy)
+comments: yes
+disqus-id: 6d43002dc29d4a76d90a62c843049fac6f85085b
 ---
 
 It is occasionally useful to know how to perform basic tasks on the command line, especially since most commands are universal across distributions.
