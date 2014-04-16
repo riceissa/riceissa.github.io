@@ -12,7 +12,7 @@ h1 {
     color: #073642; /*base02*/
 }
 
-#content {
+#content, #disqus_thread {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
