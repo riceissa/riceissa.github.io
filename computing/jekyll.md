@@ -2,6 +2,7 @@
 layout: comments
 title: Setting up Jekyll on GitHub
 last-major-revision-date: 2014-04-15
+disqus-id: 9dfd2e7767fc36827692b6a194433f1d96fe58d4
 ---
 
 There are already well-written guides for setting up Jekyll on GitHub Pages, and it would be pointless for me to add another.
