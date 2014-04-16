@@ -1,7 +1,7 @@
 ---
 layout: comments
 title: How to use platex to typeset Japanese documents (Debian Wheezy)
-disqus-id: 9dfd2e7767fc36827692b6a194433f1d96fe58d4
+disqus-id: 870d28e40a661cde90d2a1f30bb9d18cd987d023
 ---
 
 ## How-to
