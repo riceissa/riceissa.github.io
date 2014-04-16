@@ -20,7 +20,12 @@ Below we check both
 
 (to see if more complicated equations work, especially those containing a double backslash).
 
-[This page is also an example of using Liquid to reduce redundancy. See [the source](https://raw.githubusercontent.com/riceissa/riceissa.github.io/master/math/math-test.md) for more.]
+This page is also an example of using Liquid to reduce redundancy.
+It seems to mostly work, but some outputs seem to be different.
+See [here](#diff-output) for an example.
+See [the source](https://raw.githubusercontent.com/riceissa/riceissa.github.io/master/math/math-test.md) for more.
+
+If you are wondering which inputs work the best, see [Backtick:Single backslash parenthesis](#bsbp) and [Backtick:Single backslash bracket](#bsbb).
 
 ## Standard
 
@@ -74,13 +79,13 @@ $${% include cross-product-test.html %}$$
 
 `$${% include cross-product-test.html %}$$`
 
-### Single backslash parenthesis
+<h3 id="bsbp">Single backslash parenthesis</h3>
 
 `\({% include integral-test.html %}\)`
 
 `\({% include cross-product-test.html %}\)`
 
-### Single backslash bracket
+<h3 id="bsbb">Single backslash bracket</h3>
 
 `\[{% include integral-test.html %}\]`
 
@@ -112,11 +117,19 @@ $${% include cross-product-test.html %}$$
 
     $${% include cross-product-test.html %}$$
 
-### Single backslash parenthesis
+<h3 id="diff-output">Single backslash parenthesis</h3>
 
     \({% include integral-test.html %}\)
 
+<!-- -->
+
+    \(F(a,b) = \int_a^b f(x)\, dx > 1\)
+
+<!-- -->
+
     \({% include cross-product-test.html %}\)
+
+
 
 ### Single backslash bracket
 
