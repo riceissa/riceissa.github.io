@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Resources for the University of Washington
+comments: yes
+disqus-id: b6ac33c58ab9c30934bfad47df30bd980e68388b
 ---
 
 A collection of information about the University of Washington (and also
