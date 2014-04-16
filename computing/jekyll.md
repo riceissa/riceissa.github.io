@@ -1,5 +1,5 @@
 ---
-layout: comments
+layout: default
 title: Setting up Jekyll on GitHub
 last-major-revision-date: 2014-04-15
 disqus-id: 9dfd2e7767fc36827692b6a194433f1d96fe58d4
