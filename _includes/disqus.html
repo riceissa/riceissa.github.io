@@ -2,7 +2,9 @@
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'riceissa'; // required: replace example with your forum shortname
+    {% if page.disqus-id %}
     var disqus_identifier = '{{page.disqus-id}}';
+    {% endif %}
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
