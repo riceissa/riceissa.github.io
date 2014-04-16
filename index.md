@@ -19,3 +19,4 @@ Some pages:
 - [Some useful links](./links.html)
 - [Resources for research on work/goal-setting/procrastination](./cogsci/work.html)
 - [SICP](./learning/SICP/resources.html)
+- [Notes on setting up Jekyll with GitHub](./computing/jekyll.html) (like this website)
