@@ -43,7 +43,17 @@ See <http://cwoebker.com/posts/latex-math-magic>, <http://doswa.com/2011/07/20/m
 See [this page](http://stackoverflow.com/a/11093303/3422337) for the “big picture”.
 The idea is that we want the Markdown processor to leave potential LaTeX code untouched so that MathJax can access it.
 
-### Example
+See [here](/math/math-test.html) for an extensive list of what works and what doesn’t.
+
+<h3 id="examples">Examples</h3>
+
+Enter
+
+{% highlight tex %}
+`\(\int_a^b f(x) \, dx\)`
+{% endhighlight %}
+
+to obtain `\(\int_a^b f(x) \, dx\)`.
 
 Enter
 

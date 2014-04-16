@@ -26,6 +26,7 @@ See [here](#diff-output) for an example.
 See [the source](https://raw.githubusercontent.com/riceissa/riceissa.github.io/master/math/math-test.md) for more.
 
 If you are wondering which inputs work the best, see [Backtick:Single backslash parenthesis](#bsbp) and [Backtick:Single backslash bracket](#bsbb).
+For inputting these, see [here](/computing/jekyll.html#examples).
 
 ## Standard
 
