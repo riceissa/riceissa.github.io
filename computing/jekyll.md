@@ -38,6 +38,8 @@ jekyll serve --watch --baseurl ""
 
 ## Typesetting math
 
+See <http://cwoebker.com/posts/latex-math-magic>, <http://doswa.com/2011/07/20/mathjax-in-markdown.html>, and <http://rangerway.com/way/2013/10/05/latex-note-and-jekyll/> for more (they should be identical).
+
 ### Example
 
 Enter
