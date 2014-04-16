@@ -17,3 +17,4 @@ Some pages:
 - [Git commands I tend to forget](./computing/git.html)
 - [Burning CD/DVD on the commandline](./computing/wodim.html)
 - [Some useful links](./links.html)
+- [Resources for research on work/goal-setting/procrastination](./cogsci/work.html)
