@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Miscellaneous Tips and Tricks
-comments: yes
+comments: "yes"
 disqus-id: 71ad5a09b2dff55d25260e2918efb896b82ce578
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A collection of often-forgotten git commands
-comments: yes
+comments: "yes"
 disqus-id: 9b9095c5f72440171ea4125a2f1bd22af5eab113
 ---
 
