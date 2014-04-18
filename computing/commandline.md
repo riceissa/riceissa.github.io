@@ -37,4 +37,5 @@ vim .uim.d/customs/custom-anthy-keys1.scm
 See https://github.com/sigurdga/gnome-terminal-colors-solarized
 and http://www.webupd8.org/2011/04/solarized-must-have-color-paletter-for.html
 for getting Solarized to work with Gnome Terminal.
+also cf. http://www.terminally-incoherent.com/blog/2013/12/30/tools-you-need/
 {% endhighlight %}
