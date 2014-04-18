@@ -13,7 +13,7 @@ math: ""
 
 ### Things to add (it has been a while...):
 
-- Something about how `Ctrl-`i` or `Ctrl`-`o` was eaten up by Bash (since it got confused with the tab character?), so that one couldn’t set those to use as the shorten/lengthen keys.
+- Something about how `Ctrl`-`i` or `Ctrl`-`o` was eaten up by Bash (since it got confused with the tab character?), so that one couldn’t set those to use as the shorten/lengthen keys.
 - Where to place the config files?
 - Graphical Emacs has a setup wizard which produces its own config files (even for Japanese input); what did I do with those?
 
