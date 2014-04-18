@@ -65,3 +65,14 @@ I have the following in my `~/.emacs`.
 (if (>= emacs-major-version 23)
     (setq anthy-accept-timeout 1))
 {% endhighlight %}
+
+Basic usage:
+
+1. Start emacs using `emacs -nw`.
+2. Type `Ctrl`-`\` which prompts the user for an input method.
+3. Type `japanese-anthy`.
+
+## Packages to install (Debian)
+
+- anthy-el
+
