@@ -9,7 +9,13 @@ math: ""
 ## Upshot
 
 - `uim-fep` seems to be the best option, on Bash.
-- Using Emacs is quite possibly the best way, even if you’re a hardcore Vim user (like me)
+- Using Emacs is quite possibly the best way overall, even if you’re a hardcore Vim user (like me)
+
+### Things to add (it has been a while...):
+
+- Something about how `Ctrl-`i` or `Ctrl`-`o` was eaten up by Bash (since it got confused with the tab character?), so that one couldn’t set those to use as the shorten/lengthen keys.
+- Where to place the config files?
+- Graphical Emacs has a setup wizard which produces its own config files (even for Japanese input); what did I do with those?
 
 ## uim-fep
 
