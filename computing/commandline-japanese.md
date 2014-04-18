@@ -13,7 +13,6 @@ math: ""
 
 ### Things to add (it has been a while...):
 
-- Something about how `Ctrl`-`i` or `Ctrl`-`o` was eaten up by Bash (since it got confused with the tab character?), so that one couldn’t set those to use as the shorten/lengthen keys.
 - Where to place the config files?
 - Graphical Emacs has a setup wizard which produces its own config files (even for Japanese input); what did I do with those?
 
@@ -23,32 +22,28 @@ math: ""
 
 {% highlight scheme %}
 ;; -*- mode: scheme -*-
+;; Place this file as ~/.uim.  This file overrides any settings from
+;; files in ~/.uim.d/customs
 
-(define-key generic-on-key? '("<Control>\\" "<Control>o"))
-(define-key generic-off-key? '("<Control>\\" "<Control>o"))
-(define-key anthy-on-key? 'generic-on-key?)
-(define-key anthy-latin-key? 'generic-off-key?)
-(define-key generic-cancel-key? "<Control>g")
+(define default-im-name 'anthy)
 
-(define-key generic-shrink-key? '("<IgnoreCase><Control>i" "<Shift>left"))
-(define-key anthy-shrink-segment-key? 'generic-shrink-key?)
+(define generic-on-key '("<IgnoreShift><Control>\\"))
+(define generic-on-key? (make-key-predicate '("<IgnoreShift><Control>\\")))
+(define generic-off-key '("<IgnoreShift><Control>\\"))
+(define generic-off-key? (make-key-predicate '("<IgnoreShift><Control>\\")))
 
-;; (define-custom 'anthy-extend-segment-key '("<IgnoreCase><Control>o" "<Shift>right")
-;;                '(anthy-keys1)
-;; 	       '(key)
-;; 	       (N_ "[Anthy] extend segment")
-;; 	       (N_ "long description will be here"))
-
-;(define-key anthy-shrink-segment-key "<IgnoreCase><Control>i")
-
-
-;; (define-key anthy-latin-key? '("<Control><Space>" generic-off-key?))
-;; (define-key anthy-latin-key? '("<Control><Space>" generic-off-key?))
-;; (define-key switch-im-key '())
-
-;;(define-custom 'generic-on-key '("zenkaku-hankaku" "<Control> "))
-;;(define-custom 'generic-off-key '("zenkaku-hankaku" "<Control> "))
+(define generic-shrink-key? '("<Control>j"))
+(define generic-extend-key? '("<Control>k"))
+(define anthy-shrink-segment-key? 'generic-shrink-key?)
+(define anthy-extend-segment-key? 'generic-extend-key?)
 {% endhighlight %}
+
+Run this using `uim-fep -u anthy` or just `uim-fep` if you have `(define default-im-name 'anthy)` in `~/.uim`.
+
+Also run `uim-pref-gtk` to get a graphical settings menu.
+
+
+- `Ctrl`-`i` is eaten up by Bash (since it seems to get confused with the tab character), so one cannot set it to use as one of the user-defined keys.
 
 
 ## Emacs
@@ -74,5 +69,5 @@ Basic usage:
 
 ## Packages to install (Debian)
 
-- anthy-el
+- anthy-el, uim-anthy, uim-fep
 
