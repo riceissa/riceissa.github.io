@@ -36,5 +36,5 @@ Now suppose (1) and (3) are true; we would like to show (2).
 Let `\(N\geq x\)` for all `\(x\in X\)`.
 We now need `\(M\leq N\)`.
 Suppose for the sake of contradiction that `\(M\not\leq N\)`, i.e., `\(M>N\)`.
-Then there is, by (3), some `\(x\in X\)` such that `\(x>N\)`.
+Then there is, by (3), there is some `\(x\in X\)` such that `\(x>N\)`.
 This contradicts the above, where `\(N\)` was an upper bound for `\(X\)`. `\(\square\)`
