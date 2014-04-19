@@ -105,7 +105,7 @@ cause problems (i.e., not reading and writing correctly).  In short,
 problems can be software or hardware.  It is hoped that this document
 eliminates any mysteries regarding the former.
 
- <!-- -->
+
 
 ## DVD
 
