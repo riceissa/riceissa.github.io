@@ -7,3 +7,4 @@ disqus-id: 6b6b0c52a65b77ec4b318d61f7987ad3e0ab004c
 
 - <http://worrydream.com/KillMath/>
     - <http://worrydream.com/LadderOfAbstraction/>
+- <http://www.terminally-incoherent.com/blog/2013/12/30/tools-you-need/>

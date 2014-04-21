@@ -11,9 +11,9 @@ The definition for the least upper bound seems to be given in two nearly identic
 
 Consider the following three statements regarding some set of real numbers `\(X\)`, and real numbers `\(M,N\in \mathbf{R}\)`.
 
-- `\(M \geq x\)` for all `\(x\in X\)`.
-- Let `\(N\geq x\)` for all `\(x\in X\)`; then `\(M\leq N\)`.
-- Let `\(N<M\)`; then there is some `\(x\in X\)` such that `\(x>N\)`.
+1. `\(M \geq x\)` for all `\(x\in X\)`.
+2. Let `\(N\geq x\)` for all `\(x\in X\)`; then `\(M\leq N\)`.
+3. Let `\(N<M\)`; then there is some `\(x\in X\)` such that `\(x>N\)`.
 
 My impression is that most books use (1) and (2) above to define `\(M=\sup X\)` as the least upper bound of `\(X\)`.
 (To me, at least, this seems most intuitive, since we actually “see” that out of all the upper bounds of `\(X\)`, `\(M\)` is indeed the least.)
@@ -37,5 +37,5 @@ Now suppose (1) and (3) are true; we would like to show (2).
 Let `\(N\geq x\)` for all `\(x\in X\)`.
 We now need `\(M\leq N\)`.
 Suppose for the sake of contradiction that `\(M\not\leq N\)`, i.e., `\(M>N\)`.
-Then there is, by (3), some `\(x\in X\)` such that `\(x>N\)`.
+Then, by (3), there is some `\(x\in X\)` such that `\(x>N\)`.
 This contradicts the above, where `\(N\)` was an upper bound for `\(X\)`. `\(\square\)`
