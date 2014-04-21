@@ -20,3 +20,13 @@ Some pages:
 - [Resources for research on work/goal-setting/procrastination](./cogsci/work.html)
 - [SICP](./learning/SICP/resources.html)
 - [Notes on setting up Jekyll with GitHub](./computing/jekyll.html) (like this website)
+
+<!-- split list -->
+
+## Computing
+
+{% include page-type.html tags='computing' %}
+
+## Math
+
+{% include page-type.html tags='math' %}
