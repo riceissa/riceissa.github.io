@@ -3,6 +3,7 @@ layout: default
 title: Testing Jekyll and Mathjax
 comments: "no"
 math: "yes"
+tags: math
 ---
 
 So what works?
