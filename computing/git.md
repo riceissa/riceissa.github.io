@@ -3,6 +3,7 @@ layout: default
 title: A collection of often-forgotten git commands
 comments: "yes"
 disqus-id: 9b9095c5f72440171ea4125a2f1bd22af5eab113
+tags: computing
 ---
 
 - View all unadded files, including ones in <code>.gitignore</code>.
