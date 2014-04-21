@@ -5,6 +5,7 @@ last-major-revision-date: 2014-04-15
 comments: "yes"
 disqus-id: 9dfd2e7767fc36827692b6a194433f1d96fe58d4
 math: "yes"
+tags: computing math
 ---
 
 There are already well-written guides for setting up Jekyll on GitHub Pages, and it would be pointless for me to add another.
