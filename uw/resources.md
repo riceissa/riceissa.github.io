@@ -105,6 +105,8 @@ Alex says, in part:
     > Use the cloud as your storage space, and default most of your
     > Facebook status updates to public.
 
+    - See also Alex’s post on Less Wrong, [How do you approach the problem of social discovery?](http://lesswrong.com/r/discussion/lw/k3s/how_do_you_approach_the_problem_of_social/) and [Alex K. Chen's answer to Alex K. Chen (topic): What were Alex K Chen's best decisions of his life?](https://www.quora.com/Alex-K-Chen-topic/What-were-Alex-K-Chens-best-decisions-of-his-life/answer/Alex-K-Chen)
+
 -   [How does one meet new people at UWashington?](https://www.quora.com/University-of-Washington/How-does-one-meet-new-people-at-UWashington)
 
     - Consider going to a Quora meet-up.
