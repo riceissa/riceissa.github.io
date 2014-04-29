@@ -20,6 +20,10 @@
 {% if page.last-major-revision-date %}
 Date of last major revision: {{page.last-major-revision-date}}.
 {% endif %}
+
+{% if page.license == 'CC-BY' %}
+{% include CC-BY.html %}
+{% endif %}
 </div>
 
 {% if page.comments == 'yes' %}
