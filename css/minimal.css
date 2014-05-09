@@ -4,7 +4,7 @@ body {
   color: #586e75; /*base01*/
   background: #fdf6e3; /*base3*/
   font-size: 14px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Georgia, serif, Arial, sans-serif;
   line-height: 1.5;
 }
 
@@ -41,28 +41,36 @@ code.has-jax {
 blockquote {
     /*display: block;*/
     color: #657b83; /*base00*/
-    padding: 7px 16px; /*top-bottom, right-left*/
+    padding: 0px 16px; /*top-bottom, right-left*/
     border-left: 4px solid #93a1a1; /*base1*/
     /*border-radius: 2px 2px 2px 2px;*/
     background-color: #eee8d5; /*base2*/
     /*border: 1px solid #93a1a1; /*base1*/
-    quotes: "\201C""\201D""\2018""\2019";
+    /*quotes: "\201C""\201D""\2018""\2019";*/
 }
 
 blockquote:before, blockquote:after {
     font-size: 25px;
-    line-height: 14px;
+    line-height: 0px;
     font-family: FreeSerif, 'Times New Roman', serif;
+    display: block;
+    position: relative;
 }
 blockquote:before {
     content: open-quote;
-    vertical-align: -2px;
+    left: -15px;
+    /*vertical-align: -2px;*/
+    top: 25px;
 }
 blockquote:after {
+    display: inline;
     content: close-quote;
-    vertical-align: -12px;
+    bottom: 25px;
+    right: -15px;
+    float: right;
+    /*vertical-align: -12px;*/
 }
-blockquote p { display: inline; }
+/*blockquote p { display: inline; }*/
 
 code {
     padding-left: 4px;
