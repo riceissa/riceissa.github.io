@@ -127,6 +127,8 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 - There are many examples of honors portfolios available [here](https://sites.google.com/a/uw.edu/the-honors-portfolio/portfolio-examples).
 You may need a UW account to see some of them, though.
 
+- I also highly recommend contacting one or more [UW Honors peer mentors](http://depts.washington.edu/uwhonors/community/mentors/list/); they were all very responsive to email when I contacted them.
+
 ## Computer science and engineering (CSE)
 
 -   [How hard is it to get into the CSE program at University of Washington?](https://www.quora.com/How-hard-is-it-to-get-into-the-CSE-program-at-University-of-Washington)
