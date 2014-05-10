@@ -4,7 +4,7 @@ body {
   color: #586e75; /*base01*/
   background: #fdf6e3; /*base3*/
   font-size: 14px;
-  font-family: Georgia, serif, Arial, sans-serif;
+  font-family: Baskerville, Garamond, Helvetica, Arial, sans-serif;
   line-height: 1.5;
 }
 
@@ -36,6 +36,7 @@ code.has-jax {
     font-size: 100%;
     background: inherit;
     border: inherit;
+    padding: 0px 0px; /*top-bottom, right-left*/
 }
 
 blockquote {
