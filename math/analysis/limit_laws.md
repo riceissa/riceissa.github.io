@@ -31,5 +31,16 @@ But
 \begin{align}|f(x)+g(x)-(L_1+L_2)| &= |f(x)-L_1 + g(x)-L_2| \\
 &\leq |f(x)-L_1| + |g(x)-L_2|.\end{align}
 \]`
-
+So if we can show `\(|f(x)-L_1| + |g(x)-L_2|<\epsilon\)`, then our
+result follows immediately.  But, `\(\frac{\epsilon}{2}\)` being a
+positive real number, we have `\(\delta_1,\delta_2 > 0\)` such that
+`\[
+0 < |x-a|<\delta_1 \to |f(x)-L_1|<\frac{\epsilon}{2}, \\
+0 < |x-a|<\delta_2 \to |f(x)-L_2|<\frac{\epsilon}{2}.
+\]`
+So if we let `\(\delta := \min(\delta_1,\delta_2)\)`, then `\(|f(x)-L_1\)|` and `\(|g(x)-L_2|\)` are both less than `\(\frac{\epsilon}{2}\)`, so
+`\[
+|f(x)-L_1| + |g(x)-L_2|< \frac{\epsilon}{2} + \frac{\epsilon}{2} = \epsilon,
+\]`
+which is what was desired. `\(\square\)`
 
