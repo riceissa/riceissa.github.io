@@ -2,3 +2,5 @@ markdown: redcarpet
 highlighter: pygments
 baseurl: ""
 exclude: ['README.md', 'template.md']
+gems:
+  - jekyll-sitemap
