@@ -94,6 +94,8 @@ See also the [Lazy College Senior meme](http://www.quickmeme.com/Lazy-College-Se
 
 -   See Jonah and Vipul’s “[Using Facebook effectively](http://info.cognitomentoring.org/wiki/Using_Facebook_effectively)” for reasons why Facebook might be useful in college.
 
+- [What are the best ways for students to network with other people while they're still in college?](https://www.quora.com/What-are-the-best-ways-for-students-to-network-with-other-people-while-theyre-still-in-college)
+
 -   [Alex K. Chen’s answer to: People Skills: What is the secret to finding the right peers?](https://www.quora.com/People-Skills/What-is-the-secret-to-finding-the-right-peers/answer/Alex-K-Chen)
 Alex says, in part:
 
