@@ -3,7 +3,12 @@ layout: default
 title: Resources for the University of Washington
 comments: 'yes'
 disqus-id: b6ac33c58ab9c30934bfad47df30bd980e68388b
+math: "no"
+last-major-revision-date: 2014-05-19
+license: "CC-BY"
+tags: UW
 ---
+
 
 A collection of information about the University of Washington (and also
 college in general).
