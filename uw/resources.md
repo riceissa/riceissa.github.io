@@ -127,6 +127,8 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 
 - [What is it like to live in Lander Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Lander-Hall)
 
+- [What is it like to live in Haggett Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Haggett-Hall)
+
 - [What is it like to live in Hansee Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Hansee-Hall)
 
 ## UW Honors
