@@ -96,6 +96,8 @@ See also the [Lazy College Senior meme](http://www.quickmeme.com/Lazy-College-Se
 
 - [What are the best ways for students to network with other people while they're still in college?](https://www.quora.com/What-are-the-best-ways-for-students-to-network-with-other-people-while-theyre-still-in-college)
 
+- [How common is it to feel socially isolated at the UW?](https://www.quora.com/How-common-is-it-to-feel-socially-isolated-at-the-UW)
+
 -   [Alex K. Chen’s answer to: People Skills: What is the secret to finding the right peers?](https://www.quora.com/People-Skills/What-is-the-secret-to-finding-the-right-peers/answer/Alex-K-Chen)
 Alex says, in part:
 
@@ -133,6 +135,8 @@ You may need a UW account to see some of them, though.
 
 ## Computer science and engineering (CSE)
 
+- [What's the best path to follow as a freshman to enter the CS major?](https://www.quora.com/Whats-the-best-path-to-follow-as-a-freshman-to-enter-the-CS-major)
+
 -   [How hard is it to get into the CSE program at University of Washington?](https://www.quora.com/How-hard-is-it-to-get-into-the-CSE-program-at-University-of-Washington)
 
 -   [Jennifer Apacible's answer to University of Washington: What does it take to be a direct admit to the computer science program at the University of Washington?](https://www.quora.com/University-of-Washington/What-does-it-take-to-be-a-direct-admit-to-the-computer-science-program-at-the-University-of-Washington/answer/Jennifer-Apacible-1)
@@ -140,6 +144,10 @@ You may need a UW account to see some of them, though.
 - [As a non-major, how can I be a bigger part of the UW CSE community?](https://www.quora.com/As-a-non-major-how-can-I-be-a-bigger-part-of-the-UW-CSE-community)
 
 - [What does Alex K. Chen think of the field of Computer Science?](https://www.quora.com/Alex-K-Chen-topic/What-does-Alex-K-Chen-think-of-the-field-of-Computer-Science)
+
+- [What is it like taking CSE 142 at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-taking-CSE-142-at-the-University-of-Washington)
+
+- [What is it like to take CSE 143 at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-to-take-CSE-143-at-the-University-of-Washington)
 
 
 ## Atmospheric science
