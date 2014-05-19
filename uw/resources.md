@@ -121,6 +121,10 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 
 - [Alex K. Chen's answer to Colleges and Universities: How can you make important connections if you don't attend a top university?](https://www.quora.com/Colleges-and-Universities/How-can-you-make-important-connections-if-you-dont-attend-a-top-university/answer/Alex-K-Chen)
 
+## Housing
+
+- [What is it like to live in Lander Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Lander-Hall)
+
 ## UW Honors
 
 -   For a comparison of UW Honors to top schools, see the Quora question
