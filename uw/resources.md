@@ -123,6 +123,8 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 
 ## Housing
 
+- [What is it like to live in Alder Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Alder-Hall)
+
 - [What is it like to live in Lander Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Lander-Hall)
 
 - [What is it like to live in Hansee Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Hansee-Hall)
