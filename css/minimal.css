@@ -9,7 +9,7 @@ body {
 
 h1, h2, h3 {
     color: #073642; /*base02*/
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 #content, #disqus_thread {
@@ -19,7 +19,7 @@ h1, h2, h3 {
 }
 
 #navigation {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 a:link {
@@ -47,7 +47,7 @@ blockquote {
     color: #657b83; /*base00*/
     padding: 0px 16px; /*top-bottom, right-left*/
     border-left: 4px solid #93a1a1; /*base1*/
-    background-color: #eee8d5; /*base2*/
+    /*background-color: #eee8d5; /*base2*/
 }
 
 code {
