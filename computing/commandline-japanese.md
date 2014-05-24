@@ -4,7 +4,11 @@ title: Japanese input on the command line (framebuffer)
 comments: ""
 disqus-id:
 math: ""
+last-major-revision-date:
+license: "CC-BY"
+tags: computing
 ---
+
 
 ## Upshot
 
