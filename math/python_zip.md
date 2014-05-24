@@ -2,7 +2,7 @@
 layout: default
 title: The Zip in Python
 comments: "yes"
-disqus-id:
+disqus-id: b4fc08b425b94e5e8374199e8d4b6798c3a0a77c
 math: "yes"
 last-major-revision-date:
 license: "CC-BY"
