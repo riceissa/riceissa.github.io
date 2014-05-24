@@ -30,3 +30,7 @@ Some pages:
 ## Math
 
 {% include page-type.html tags='math' %}
+
+## University of Washington
+
+{% include page-type.html tags='UW' %}
