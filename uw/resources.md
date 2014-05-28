@@ -126,13 +126,29 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 
 ## Housing
 
+Unfortunately most of these questions don't have any answers yet, but they all have the potential to become useful resources in the future, so I will still put them here.
+
+- Eventually see [What University of Washington dorm is the best to live in, and why?](https://www.quora.com/What-University-of-Washington-dorm-is-the-best-to-live-in-and-why); at the moment there aren't any answers there (2014-05-27).
+
 - [What is it like to live in Alder Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Alder-Hall)
+
+- [What is it like to live in Elm Hall?](https://www.quora.com/University-of-Washington-What-is-it-like-to-live-in-Elm-Hall)
+
+- [What is it like to live in Haggett Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Haggett-Hall); see also [Do the rooms at Haggett Hall have Wi-Fi?](https://www.quora.com/Do-the-rooms-at-Haggett-Hall-have-Wi-Fi) and [Do the rooms at the University of Washington's Hagget Hall have WiFi? If so, is the service complimentary to a student's tuition?](https://www.quora.com/Do-the-rooms-at-the-University-of-Washingtons-Hagget-Hall-have-WiFi-If-so-is-the-service-complimentary-to-a-students-tuition)
+
+- [What is it like to live in Hansee Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Hansee-Hall)
 
 - [What is it like to live in Lander Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Lander-Hall)
 
-- [What is it like to live in Haggett Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Haggett-Hall)
+- [What is it like to live in McCarty Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-McCarty-Hall)
 
-- [What is it like to live in Hansee Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Hansee-Hall)
+- [What is it like to live in McMahon Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-McMahon-Hall)
+
+- [What is it like to live in Mercer Court?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Mercer-Court)
+
+- [What is it like to live in Poplar Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Poplar-Hall)
+
+- [What is it like to live in Stevens Court?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Stevens-Court)
 
 ## UW Honors
 
