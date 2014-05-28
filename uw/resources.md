@@ -154,6 +154,8 @@ Unfortunately most of these questions don't have any answers yet, but they all h
 
 ## UW Honors
 
+<!-- internal tags: uwhons uw hons -->
+
 -   For a comparison of UW Honors to top schools, see the Quora question
     “[How does the University of Washington honors program undergraduate student quality compare with that of top schools like MIT and Caltech?](https://www.quora.com/How-does-the-University-of-Washington-honors-program-undergraduate-student-quality-compare-with-that-of-top-schools-like-MIT-and-Caltech)”
 
@@ -161,6 +163,7 @@ Unfortunately most of these questions don't have any answers yet, but they all h
 
 - There are many examples of honors portfolios available [here](https://sites.google.com/a/uw.edu/the-honors-portfolio/portfolio-examples).
 You may need a UW account to see some of them, though.
+I'm also highly considering doing my honors portfolio on Quora, [since this seems to be possible](https://www.quora.com/University-of-Washington/Is-it-possible-to-create-ones-honors-portfolio-on-Quora); I encourage others to look into this as well so that one can reflect+fulfil the requirement+add useful content on the internet so others can access it freely, all at the same time.
 
 - I also highly recommend contacting one or more [UW Honors peer mentors](http://depts.washington.edu/uwhonors/community/mentors/list/); they were all very responsive to email when I contacted them.
 
