@@ -156,8 +156,7 @@ Unfortunately most of these questions don't have any answers yet, but they all h
 
 <!-- internal tags: uwhons uw hons -->
 
--   For a comparison of UW Honors to top schools, see the Quora question
-    “[How does the University of Washington honors program undergraduate student quality compare with that of top schools like MIT and Caltech?](https://www.quora.com/How-does-the-University-of-Washington-honors-program-undergraduate-student-quality-compare-with-that-of-top-schools-like-MIT-and-Caltech)”
+-   For a comparison of UW Honors to top schools (in STEM), see the Quora question [How does the University of Washington honors program undergraduate student quality compare with that of top schools like MIT and Caltech?](https://www.quora.com/How-does-the-University-of-Washington-honors-program-undergraduate-student-quality-compare-with-that-of-top-schools-like-MIT-and-Caltech)
 
 - [What is the Honors program at the University of Washington like? Is it worth joining?](https://www.quora.com/What-is-the-Honors-program-at-the-University-of-Washington-like-Is-it-worth-joining)
 
