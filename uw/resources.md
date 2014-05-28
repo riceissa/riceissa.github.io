@@ -16,7 +16,7 @@ Currently it’s [too easy to lose things on Quora](https://www.quora.com/How-do
 Please let me know if there are any other good resources or if there are mistakes here.
 (You can leave a comment [below](#disqus_thread) or email me at the reverse of moc.liamg@assiecir.)
 
-Note that even if you’re not logged in on Quora, adding <code>/?share=1</code> to the end of the URL allows you to view *all* answers, not just the first one.
+Note that even if you’re not logged in on Quora, adding `/?share=1` to the end of the URL allows you to view *all* answers, not just the first one.
 
 ## Other lists of resources
 
@@ -34,8 +34,6 @@ Note that even if you’re not logged in on Quora, adding <code>/?share=1</code>
 - [Is it worthwhile to attend the Admitted Student Previews (undergrad) at the University of Washington?](https://www.quora.com/University-of-Washington/Is-it-worthwhile-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington)
 
 - [Alex K. Chen’s answer to What is the biggest regret of your life?](https://www.quora.com/What-is-the-biggest-regret-of-your-life/answer/Alex-K-Chen)
-
-    > Not taking better advantage of the INCREDIBLE UW Atmospheric Science program when I was an undergrad, and spending too much time in majors [...] that don't give a crap about their undergrads. :( It has so few undergrads that you can easily take grad lvl courses and basically get treated like a grad student.
 
 - Alex K. Chen often refers to the Academic program reviews and departmental self-study reports.
 Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html).
@@ -57,8 +55,6 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 - [Alex K. Chen’s answer to Should I feel bad for going to a mediocre college?](https://www.quora.com/Should-I-feel-bad-for-going-to-a-mediocre-college/answer/Alex-K-Chen) (see especially the comments to the answer)
 
 - [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time). Alex says:
-
-    > Talk to **lots** of UW professors about research and opportunities. By default I'd do it in astronomy, but astronomy is super-small (=lower chances of finding someone with personality+research fit who also has the time to mentor new students) so I'd also have to do it in biology, neuroscience, atmospheric science, oceanography, and genome sciences [...].
 
 - [What is some advice that most college students are not ever likely to hear?](https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-that-most-college-students-are-not-ever-likely-to-hear)
 
@@ -171,14 +167,6 @@ You may need a UW account to see some of them, though.
 
 - [What is it like to study Atmospheric Science at the University of Washington?](https://www.quora.com/What-is-it-like-to-study-Atmospheric-Science-at-the-University-of-Washington)
 In particular, Alex K. Chen says:
-
-   > Personally, I think the ideal combination would be to major in CS
-   > at UW, take the grad-lvl courses (as well as the computational
-   > courses) in the Atmospheric Science department, and then do
-   > Atmospheric Science research at UW. That way you get an undergrad
-   > degree from one of UW's best undergrad programs, and research in a
-   > department where you can get more personal attention than almost
-   > any other department in the entire school.
 
 - [Department of atmospheric sceinces: unit self-study](https://www.washington.edu/about/accreditation/reviews/atmos-2011-1.pdf)
 
