@@ -126,7 +126,7 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 
 - [Alex K. Chen's answer to Colleges and Universities: How can you make important connections if you don't attend a top university?](https://www.quora.com/Colleges-and-Universities/How-can-you-make-important-connections-if-you-dont-attend-a-top-university/answer/Alex-K-Chen)
 
-- The University of Washington does have its own [Facebook app](https://apps.facebook.com/uw_fbapp/) (maybe only for freshmen?), but I haven’t had much success with this yet.
+- The University of Washington does have [its own Facebook app](https://apps.facebook.com/uw_fbapp/) (maybe only for freshmen?), but I haven’t had much success with this yet.
 
 ## Housing
 
