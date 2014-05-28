@@ -20,6 +20,8 @@ Note that even if you’re not logged in on Quora, adding `/?share=1` to the end
 
 ## Other lists of resources
 
+- The [University of Washington topic on Quora](https://www.quora.com/University-of-Washington) has a lot of information; in fact, most of the content linked to on this page is from here.
+
 -   Jennifer Apacible has a [collection of Quora questions about
     UW](https://jenpacollections.quora.com/University-of-Washington).
 
