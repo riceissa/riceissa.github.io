@@ -9,7 +9,7 @@ license: "CC-BY"
 tags: math
 ---
 
-In mathematics, one can have a fuction like `\(f: X \times Y\to Z\)`,
+In mathematics, one can have a function like `\(f: X \times Y\to Z\)`,
 whence one can write for instance `\(f(x,y) = z\)`, where `\(x\in X,
 y\in Y, z\in Z\)`. Some books take care to remark that since `\((x,y)\in
 X\times Y\)`, one should in fact write `\(f((x,y))=z\)`. In Python, this
@@ -24,7 +24,7 @@ Now, the function `zip` in Python takes the `\(i\)`th element from each
 iterable in some sequence, and forms a tuple for each `\(i\)`, then
 places all these tuples in one final list.  Suppose we are given some
 sequence `\(x = ((x_{i,j})_{j={m_0}}^m)_{i={n_0}}^n\)`. Incidentally,
-this sequence can be visualized as a matrix-like structre like
+this sequence can be visualized as a matrix-like structure like
 
 `\[
 \begin{pmatrix}
@@ -55,7 +55,7 @@ converse holds as well. If we decide to repeat this operation, we get
 the original matrix-like structure back.  In other words, `\(x =
 \mathrm{zip}(\star\mathrm{zip}(\star x))\)`.
 
-To give an exmaple of this identity in Python:
+To give an example of this identity in Python:
 
 ``` python
 >>> x = (1, 2, 3)
