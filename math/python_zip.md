@@ -21,10 +21,10 @@ f(\star(a_i)_{i=n_0}^n) = f(a_{n_0}, \ldots, a_n)
 \]`
 
 Now, the function `zip` in Python takes the `\(i\)`th element from each
-iterable in some sequence, and forms a tuple for each `\(i\)`.  Suppose
-we are given some sequence `\(x =
-((x_{i,j})_{j={m_0}}^m)_{i={n_0}}^n\)`. Incidentally, this sequence can
-be visualized as a matrix-like structre like
+iterable in some sequence, and forms a tuple for each `\(i\)`, then
+places all these tuples in one final list.  Suppose we are given some
+sequence `\(x = ((x_{i,j})_{j={m_0}}^m)_{i={n_0}}^n\)`. Incidentally,
+this sequence can be visualized as a matrix-like structre like
 
 `\[
 \begin{pmatrix}
