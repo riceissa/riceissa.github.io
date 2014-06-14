@@ -16,5 +16,5 @@ things to talk about eventually:
 - why different results for partial and total derivative? cf. Tao's analysis book
     
     Tao's example: take `\(f\)` defined by `\(f(x,y) = (x^2, y^2)\)`.
-    Then `\(\displaystyle \frac{\partial f}{\partial x} = (2x,0\)`, whereas `\(\displaystyle \frac{d}{dx}f(x,x) = (2x,2x)\)`.
+    Then `\(\displaystyle \frac{\partial f}{\partial x} = (2x,0)\)`, whereas `\(\displaystyle \frac{d}{dx}f(x,x) = (2x,2x)\)`.
 - transfer pdf notes
