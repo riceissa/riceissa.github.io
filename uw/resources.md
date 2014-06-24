@@ -56,7 +56,7 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 - [Alex K. Chen’s answer to Should I feel bad for going to a mediocre college?](https://www.quora.com/Should-I-feel-bad-for-going-to-a-mediocre-college/answer/Alex-K-Chen) (see especially the comments to the answer)
 
-- [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time). Alex says:
+- [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time).
 
 - [What is some advice that most college students are not ever likely to hear?](https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-that-most-college-students-are-not-ever-likely-to-hear)
 
