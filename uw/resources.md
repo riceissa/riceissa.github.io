@@ -45,6 +45,8 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 - [What is it like to attend University of Washington in Seattle?](https://www.quora.com/What-is-it-like-to-attend-University-of-Washington-in-Seattle)
 
+- [What are the downsides of attending the University of Washington?](https://www.quora.com/What-are-the-downsides-of-attending-the-University-of-Washington)
+
 - [What are the best colleges and universities for INTPs in the United States?](https://www.quora.com/What-are-the-best-colleges-and-universities-for-INTPs-in-the-United-States)
 
 - [Alex K. Chen’s answer to Self-Improvement: What advice would you tell to your 12-year-old self if you could travel back in time?](https://www.quora.com/Self-Improvement/What-advice-would-you-tell-to-your-12-year-old-self-if-you-could-travel-back-in-time/answer/Alex-K-Chen)
@@ -184,19 +186,22 @@ I'm also highly considering doing my honors portfolio on Quora, [since this seem
 
 ## Computer science and engineering (CSE)
 
-- [What's the best path to follow as a freshman to enter the CS major?](https://www.quora.com/Whats-the-best-path-to-follow-as-a-freshman-to-enter-the-CS-major)
+- [What's the best path to follow as a freshman to enter the CS major?](https://www.quora.com/Whats-the-best-path-to-follow-as-a-freshman-to-enter-the-CS-major); related: [University of Washington: With four related AP subjects, how can I make sure that I get into UW CSE and also in a timely fashion?](https://www.quora.com/University-of-Washington/With-four-related-AP-subjects-how-can-I-make-sure-that-I-get-into-UW-CSE-and-also-in-a-timely-fashion)
 
--   [How hard is it to get into the CSE program at University of Washington?](https://www.quora.com/How-hard-is-it-to-get-into-the-CSE-program-at-University-of-Washington)
+- [How hard is it to get into the CSE program at University of Washington?](https://www.quora.com/How-hard-is-it-to-get-into-the-CSE-program-at-University-of-Washington)
 
--   [Jennifer Apacible's answer to University of Washington: What does it take to be a direct admit to the computer science program at the University of Washington?](https://www.quora.com/University-of-Washington/What-does-it-take-to-be-a-direct-admit-to-the-computer-science-program-at-the-University-of-Washington/answer/Jennifer-Apacible-1)
+- [Jennifer Apacible's answer to University of Washington: What does it take to be a direct admit to the computer science program at the University of Washington?](https://www.quora.com/University-of-Washington/What-does-it-take-to-be-a-direct-admit-to-the-computer-science-program-at-the-University-of-Washington/answer/Jennifer-Apacible-1)
+
+- [What do UW CSE students wish they had known when they were new to the major?](https://www.quora.com/What-do-UW-CSE-students-wish-they-had-known-when-they-were-new-to-the-major)
 
 - [As a non-major, how can I be a bigger part of the UW CSE community?](https://www.quora.com/As-a-non-major-how-can-I-be-a-bigger-part-of-the-UW-CSE-community)
 
 - [What does Alex K. Chen think of the field of Computer Science?](https://www.quora.com/Alex-K-Chen-topic/What-does-Alex-K-Chen-think-of-the-field-of-Computer-Science)
 
-- [What is it like taking CSE 142 at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-taking-CSE-142-at-the-University-of-Washington)
-
-- [What is it like to take CSE 143 at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-to-take-CSE-143-at-the-University-of-Washington)
+- For classes, see:
+[What is it like taking CSE 142 at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-taking-CSE-142-at-the-University-of-Washington),
+[What is it like to take CSE 143 at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-to-take-CSE-143-at-the-University-of-Washington), and
+[What is it like to take the honors CSE 142/143 seminar (CSE 390) at the University of Washington?](https://www.quora.com/What-is-it-like-to-take-the-honors-CSE-142-143-seminar-CSE-390-at-the-University-of-Washington)
 
 
 ## Atmospheric science
