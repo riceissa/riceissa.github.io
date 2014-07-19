@@ -68,6 +68,8 @@ See also the [Lazy College Senior meme](http://www.quickmeme.com/Lazy-College-Se
 
 - [How can I get the most out of a single day visit at the University of Washington?](https://www.quora.com/How-can-I-get-the-most-out-of-a-single-day-visit-at-the-University-of-Washington)
 
+- [What are the disadvantages of joining a First-year Interest Group (FIG) at the University of Washington?](https://www.quora.com/What-are-the-disadvantages-of-joining-a-First-year-Interest-Group-FIG-at-the-University-of-Washington)
+
 ### Admitted Student Previews (~April)
 
 - [University of Washington: Is it worthwhile to attend the Admitted Student Previews (undergrad) at the University of Washington?](https://www.quora.com/University-of-Washington/Is-it-worthwhile-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington)
@@ -118,6 +120,8 @@ I have documented my own thoughts [here](https://www.quora.com/What-is-it-like-t
 - [What are the best ways for students to network with other people while they're still in college?](https://www.quora.com/What-are-the-best-ways-for-students-to-network-with-other-people-while-theyre-still-in-college)
 
 - [How common is it to feel socially isolated at the UW?](https://www.quora.com/How-common-is-it-to-feel-socially-isolated-at-the-UW)
+
+- [How hard is it to make friends at the University of Washington?](https://www.quora.com/How-hard-is-it-to-make-friends-at-the-University-of-Washington)
 
 -   [Alex K. Chen’s answer to: People Skills: What is the secret to finding the right peers?](https://www.quora.com/People-Skills/What-is-the-secret-to-finding-the-right-peers/answer/Alex-K-Chen)
 Alex says, in part:
