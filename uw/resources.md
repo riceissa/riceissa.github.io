@@ -22,8 +22,9 @@ Note that even if you’re not logged in on Quora, adding `/?share=1` to the end
 
 - The [University of Washington topic on Quora](https://www.quora.com/University-of-Washington) has a lot of information; in fact, most of the content linked to on this page is from here.
 
--   Jennifer Apacible has a [collection of Quora questions about
-    UW](https://jenpacollections.quora.com/University-of-Washington).
+- Jennifer Apacible has a [collection of Quora questions about UW](https://jenpacollections.quora.com/University-of-Washington).
+
+- [Anonymous's Answer to University of Washington: What does your "Your Content" page for the University of Washington topic look like?](https://www.quora.com/University-of-Washington/What-does-your-Your-Content-page-for-the-University-of-Washington-topic-look-like/answers/5867915) has a lot of questions and answers.
 
 ## General
 
@@ -40,7 +41,6 @@ Note that even if you’re not logged in on Quora, adding `/?share=1` to the end
 - Alex K. Chen often refers to the Academic program reviews and departmental self-study reports.
 Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html).
 
-
 - [What happens if a library book is overdue?](https://www.quora.com/University-of-Washington/What-happens-if-a-library-book-is-overdue)
 
 - [What is it like to attend University of Washington in Seattle?](https://www.quora.com/What-is-it-like-to-attend-University-of-Washington-in-Seattle)
@@ -48,7 +48,6 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 - [What are the best colleges and universities for INTPs in the United States?](https://www.quora.com/What-are-the-best-colleges-and-universities-for-INTPs-in-the-United-States)
 
 - [Alex K. Chen’s answer to Self-Improvement: What advice would you tell to your 12-year-old self if you could travel back in time?](https://www.quora.com/Self-Improvement/What-advice-would-you-tell-to-your-12-year-old-self-if-you-could-travel-back-in-time/answer/Alex-K-Chen)
-
 
 - [Alex K. Chen’s answer to The College and University Experience: If you could do undergrad over again, what would you major in?](https://www.quora.com/The-College-and-University-Experience/If-you-could-do-undergrad-over-again-what-would-you-major-in/answer/Alex-K-Chen)
 
@@ -62,6 +61,23 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 - [College freshmen meme](http://www.quickmeme.com/College-Freshman).
 See also the [Lazy College Senior meme](http://www.quickmeme.com/Lazy-College-Senior/).
+
+## For prefrosh
+
+- [How can I get the most out of a single day visit at the University of Washington?](https://www.quora.com/How-can-I-get-the-most-out-of-a-single-day-visit-at-the-University-of-Washington)
+
+### Admitted Student Previews (~April)
+
+- [University of Washington: Is it worthwhile to attend the Admitted Student Previews (undergrad) at the University of Washington?](https://www.quora.com/University-of-Washington/Is-it-worthwhile-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington)
+
+### Advising and Orientation session (A&O) (June–August)
+
+- [What is it like to go to the UW A&O (for freshmen)?](https://www.quora.com/What-is-it-like-to-go-to-the-UW-A-O-for-freshmen)
+I have documented my own thoughts [here](https://www.quora.com/What-is-it-like-to-go-to-the-UW-A-O-for-freshmen/answer/Issa-Rice) (currently the question only has my answer, so it is essentially identical to the question link) and [here](https://www.quora.com/What-is-the-dinner-lunch-like-at-the-UW-freshmen-A-O/answer/Issa-Rice) (regarding the meals); see also [What is the dinner/lunch like at the UW freshmen A&O?](https://www.quora.com/What-is-the-dinner-lunch-like-at-the-UW-freshmen-A-O) for the meals.
+
+- [If I didn't get all my questions answered for registering for courses at UW during my A&O session, what's the best way to get help?](https://www.quora.com/If-I-didnt-get-all-my-questions-answered-for-registering-for-courses-at-UW-during-my-A-O-session-whats-the-best-way-to-get-help)
+
+- [University of Washington: How can freshmen make the most out of their advising and orientation sessions at the University of Washington?](https://www.quora.com/University-of-Washington/How-can-freshmen-make-the-most-out-of-their-advising-and-orientation-sessions-at-the-University-of-Washington)
 
 ## Doing research
 
