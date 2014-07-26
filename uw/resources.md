@@ -22,7 +22,7 @@ Note that even if you’re not logged in on Quora, adding `/?share=1` to the end
 
 - The [University of Washington topic on Quora](https://www.quora.com/University-of-Washington) has a lot of information; in fact, most of the content linked to on this page is from here.
 
-- Jennifer Apacible has a [collection of Quora questions about UW](https://jenpacollections.quora.com/University-of-Washington).
+- Jennifer Apacible has a [collection of Quora questions about UW](https://www.quora.com/Jennifer-Apacible-1/Posts/University-of-Washington).
 
 - [Anonymous's Answer to University of Washington: What does your "Your Content" page for the University of Washington topic look like?](https://www.quora.com/University-of-Washington/What-does-your-Your-Content-page-for-the-University-of-Washington-topic-look-like/answers/5867915) has a lot of questions and answers.
 
