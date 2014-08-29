@@ -31,6 +31,7 @@ a:visited {
 
 pre code{
     display: block;
+    overflow: auto;
     padding: 10px;
 }
 
