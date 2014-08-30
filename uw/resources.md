@@ -7,6 +7,7 @@ math: "no"
 last-major-revision-date: 2014-07-19
 license: "CC-BY"
 tags: UW
+permalink: short-urls-jekyll
 ---
 
 
