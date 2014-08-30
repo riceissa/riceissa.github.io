@@ -274,7 +274,10 @@ The [article](http://www.wired.com/2009/12/15943/) Kite links to is intriguing.
 
 ## Chemistry
 
--[University of Washington: What is it like to study Chemistry at UW?](https://www.quora.com/University-of-Washington/What-is-it-like-to-study-Chemistry-at-UW)
+- [University of Washington: What is it like to study Chemistry at UW?](https://www.quora.com/University-of-Washington/What-is-it-like-to-study-Chemistry-at-UW)
+
+- [What are the best courses at the University of Washington?](https://www.quora.com/University-of-Washington/What-are-the-best-courses-at-the-University-of-Washington)
+See Andrew J. Ho's answer for chemistry courses.
 
 - [Andrew J. Ho's answer to How can the undergraduate chemistry curriculum be improved?](https://www.quora.com/How-can-the-undergraduate-chemistry-curriculum-be-improved/answer/Andrew-J-Ho)
 
