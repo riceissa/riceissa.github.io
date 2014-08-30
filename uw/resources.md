@@ -116,6 +116,7 @@ I have documented my own thoughts [here](https://www.quora.com/What-is-it-like-t
 ## Networking
 
 -   See Jonah and Vipul’s “[Using Facebook effectively](http://info.cognitomentoring.org/wiki/Using_Facebook_effectively)” for reasons why Facebook might be useful in college.
+For profile photos, [Don’t Be Ugly By Accident!](http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/) on OkTrends may be of interest.
 
 - [What are the best ways for students to network with other people while they're still in college?](https://www.quora.com/What-are-the-best-ways-for-students-to-network-with-other-people-while-theyre-still-in-college)
 
