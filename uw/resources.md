@@ -9,12 +9,17 @@ license: "CC-BY"
 tags: UW
 ---
 
-
 A collection of information about the University of Washington (and also
 college in general).
+Most of these are answers posted on Quora, and having an account on there will allow you to ask for clarification in the respective answers (I've often done this and gotten a lot of useful information).
+The collection here may at the moment seem too "insular", for example since a majority of the answers have been written by Alex K. Chen.
+This will hopefully change in the future as more people contribute their knowledge and experiences online (e.g. via Quora).
+
 Currently it’s [too easy to lose things on Quora](https://www.quora.com/How-do-people-find-posts-on-Quora-that-theyve-written-but-completely-forgotten-about), so I am posting here.
-Please let me know if there are any other good resources or if there are mistakes here.
-(You can leave a comment [below](#disqus_thread) or email me at the reverse of moc.liamg@assiecir.)
+Please let me know if there are any other good resources or if there are mistakes (e.g. broken links) here.
+(You can leave a comment [below](#disqus_thread) or email me at the reverse of moc.liamg@assiecir.
+I also have a mirror of this [on Quora](https://riceissa.quora.com/Resources-for-UW), so feel free to suggest edits on there, which can then be transferred to here.
+This page is also hosted on GitHub, so feel free to send corrections using pull requests.)
 
 Note that even if you’re not logged in on Quora, adding `/?share=1` to the end of the URL allows you to view *all* answers, not just the first one.
 
