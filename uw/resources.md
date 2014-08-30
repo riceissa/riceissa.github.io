@@ -31,6 +31,7 @@ Note that even if you’re not logged in on Quora, adding `/?share=1` to the end
 - [Alex K. Chen’s review of the University of Washington](https://www.quora.com/Reviews-of-University-of-Washington/review/Alex-K-Chen).
 
 - [What are the best courses at the University of Washington?](https://www.quora.com/University-of-Washington/What-are-the-best-courses-at-the-University-of-Washington)
+See Andrew J. Ho's answer for chemistry courses.
 
 - [Is it allowed to stay overnight in one of the Odegaard Undergraduate Library's study rooms? If so, how common is this practice?](https://www.quora.com/University-of-Washington/Is-it-allowed-to-stay-overnight-in-one-of-the-Odegaard-Undergraduate-Librarys-study-rooms-If-so-how-common-is-this-practice)
 
@@ -44,8 +45,10 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 - [What happens if a library book is overdue?](https://www.quora.com/University-of-Washington/What-happens-if-a-library-book-is-overdue)
 
 - [What is it like to attend University of Washington in Seattle?](https://www.quora.com/What-is-it-like-to-attend-University-of-Washington-in-Seattle)
+Both Alex K. Chen and Andrew J. Ho have answers.
 
 - [What are the downsides of attending the University of Washington?](https://www.quora.com/What-are-the-downsides-of-attending-the-University-of-Washington)
+Alex K. Chen, Andrew J. Ho, and Daniel Fang have answers.
 
 - [What are the best colleges and universities for INTPs in the United States?](https://www.quora.com/What-are-the-best-colleges-and-universities-for-INTPs-in-the-United-States)
 
@@ -60,6 +63,9 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 - [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time).
 
 - [What is some advice that most college students are not ever likely to hear?](https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-that-most-college-students-are-not-ever-likely-to-hear)
+
+- [What advice would you give a college freshman?](https://www.quora.com/What-advice-would-you-give-a-college-freshman)
+Christopher J. Su and Andrew J. Ho have answers.
 
 - [College freshmen meme](http://www.quickmeme.com/College-Freshman).
 See also the [Lazy College Senior meme](http://www.quickmeme.com/Lazy-College-Senior/).
@@ -189,6 +195,16 @@ I'm also highly considering doing my honors portfolio on Quora, [since this seem
 
 - I also highly recommend contacting one or more [UW Honors peer mentors](http://depts.washington.edu/uwhonors/community/mentors/list/); they were all very responsive to email when I contacted them.
 
+## Early entrance
+
+- Currently only Alex K. Chen has posted a review, but for a general overview see [Reviews of: University of Washington Academy for Young Scholars](https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars)
+
+- [Alex K. Chen's answer to What are the benefits and disadvantages of going to college early?](https://www.quora.com/What-are-the-benefits-and-disadvantages-of-going-to-college-early/answer/Alex-K-Chen)
+
+- [How common is it for students to join UW through its UW Academy program because they wanted to take the "easy way out"?](https://www.quora.com/How-common-is-it-for-students-to-join-UW-through-its-UW-Academy-program-because-they-wanted-to-take-the-easy-way-out)
+
+- [University of Washington: What do other UW students think of UW early entrance students?](https://www.quora.com/University-of-Washington/What-do-other-UW-students-think-of-UW-early-entrance-students)
+
 ## Computer science and engineering (CSE)
 
 - [What's the best path to follow as a freshman to enter the CS major?](https://www.quora.com/Whats-the-best-path-to-follow-as-a-freshman-to-enter-the-CS-major); related: [University of Washington: With four related AP subjects, how can I make sure that I get into UW CSE and also in a timely fashion?](https://www.quora.com/University-of-Washington/With-four-related-AP-subjects-how-can-I-make-sure-that-I-get-into-UW-CSE-and-also-in-a-timely-fashion)
@@ -250,6 +266,21 @@ The [article](http://www.wired.com/2009/12/15943/) Kite links to is intriguing.
 - [Can non-majors take a lot of math courses at the University of Washington?](https://www.quora.com/Can-non-majors-take-a-lot-of-math-courses-at-the-University-of-Washington)
 
 - [How should a student independently studying math get help on exercises?](https://www.quora.com/How-should-a-student-independently-studying-math-get-help-on-exercises)
+
+## Chemistry
+
+-[University of Washington: What is it like to study Chemistry at UW?](https://www.quora.com/University-of-Washington/What-is-it-like-to-study-Chemistry-at-UW)
+
+- [Andrew J. Ho's answer to How can the undergraduate chemistry curriculum be improved?](https://www.quora.com/How-can-the-undergraduate-chemistry-curriculum-be-improved/answer/Andrew-J-Ho)
+
+- [What are some good chemistry courses?](https://www.quora.com/What-are-some-good-chemistry-courses)
+Andrew J. Ho [has an answer](https://www.quora.com/What-are-some-good-chemistry-courses/answer/Andrew-J-Ho).
+
+- [What are the best physical chemistry textbooks?](https://www.quora.com/What-are-the-best-physical-chemistry-textbooks)
+Andrew J. Ho [has an answer](https://www.quora.com/What-are-the-best-physical-chemistry-textbooks/answer/Andrew-J-Ho).
+
+- [What are the best computational chemistry textbooks?](https://www.quora.com/What-are-the-best-computational-chemistry-textbooks)
+Both Sang Young Noh and Andrew J. Ho have answers.
 
 ## Thinking about graduate school
 
