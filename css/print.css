@@ -1,0 +1,6 @@
+/*See http://stackoverflow.com/questions/2162929/in-firefox-when-printing-a-page-with-anchor-tags-the-link-location-is-printing */
+
+a:link:after, a:visited:after {
+    content: " (" attr(href) ")";
+}
+
