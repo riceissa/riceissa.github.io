@@ -45,11 +45,10 @@ code.has-jax {
 }
 
 blockquote {
-    margin: 0.8em 0;
+    margin: 0px;
     color: #657b83; /*base00*/
     padding: 0px 16px; /*top-bottom, right-left*/
     border-left: 4px solid #93a1a1; /*base1*/
-    margin-left-value: 0px;
     /*background-color: #eee8d5; /*base2*/
 }
 
