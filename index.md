@@ -3,6 +3,9 @@ layout: default
 title: Issa Rice (riceissa)
 ...
 
+**This site is now obsolete.
+Please visit my new website at <http://riceissa.com>.**
+
 I spend most of my time on [Quora](https://quora.com) now.
 My Quora profile is [here](https://www.quora.com/Issa-Rice).
 Besides the accounts listed above, I'm also [riceissa on Less Wrong](http://lesswrong.com/user/riceissa/overview/) and [riceissa on Twitter](https://twitter.com/riceissa).
