@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 baseurl: ""
 exclude: ['README.md', 'template.md']
