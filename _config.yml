@@ -1,5 +1,5 @@
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 baseurl: ""
 exclude: ['README.md', 'template.md']
 permalink: /:basename
