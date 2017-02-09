@@ -4,5 +4,5 @@ title: Issa Rice (riceissa)
 ...
 
 **This site is now obsolete.
-Please visit my new website at <http://riceissa.com>.**
+Please visit my new website at <https://issarice.com/>.**
 
